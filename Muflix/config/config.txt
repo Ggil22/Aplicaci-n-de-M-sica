@@ -1,0 +1,5 @@
+maxReproducciones	10
+numRepsPremium	20
+periodoPremium	30
+diasBloqueoTemporal	3
+precioPremium	15.0

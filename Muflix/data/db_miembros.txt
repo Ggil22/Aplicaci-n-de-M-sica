@@ -1,0 +1,2 @@
+ADM|Administrador|admin@muflix.es|admin123
+U-1|guillemono|aa|aa|aa|25/03/2019|22/08/1999|false|true|18|false|01/01/9999|28/03/2019
